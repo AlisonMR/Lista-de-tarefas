@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+.removed{
+    color: rgb(224, 26, 26);
+    text-decoration: line-through
+}
+ul, li{
+    list-style-type: none;
+}
+
+h2{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.barra{
+    margin-left: 200px;
+}
+
+.lista{
+    background-color: rgb(157, 130, 230);
+    margin-left: 200px;
+}
+
+.add-task{
+    background-color: #35f72e;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+.remove{
+    background-color: #e41717;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
